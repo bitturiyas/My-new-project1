@@ -11,9 +11,9 @@
 // console.log(a/b)
 
 
-// String = "Kutti";
-// let bittu ="😂😂😂😂"
-// console.log(String + bittu)
+String = "Kutti";
+let bittu ="😂😂😂😂"
+console.log(String + bittu)
  
 // String = "Namasta Javascript";
 // start = "wellcome thw world";
